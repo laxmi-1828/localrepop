@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <body>
         <h1 class="heading">Git</h1>
+        <p>This is feature 2 </p>
     </body>
 </html>
 
